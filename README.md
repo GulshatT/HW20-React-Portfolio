@@ -1,6 +1,6 @@
 # HW20 - React Portfolio
 
-## heroku deployment
+## Heroku Deployment link
 
 https://pacific-retreat-85904.herokuapp.com/
 
